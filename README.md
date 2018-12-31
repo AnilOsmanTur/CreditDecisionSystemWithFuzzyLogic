@@ -1,3 +1,2 @@
 # FuzzyLogicProject
- - Credit decision system
- - with skfuzzy library
+ - Credit decision system with skfuzzy library
